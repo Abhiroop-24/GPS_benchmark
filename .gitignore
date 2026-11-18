@@ -5,4 +5,7 @@ __pycache__/
 /data
 *.parquet
 *.h5
+reports/experiments/predictions_*.csv
+artifacts/model_*.joblib
+artifacts/scaler_*.joblib
 .DS_Store
