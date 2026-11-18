@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 .pytest_cache/
-artifacts/
-reports/
 /data
+*.parquet
+*.h5
 .DS_Store
